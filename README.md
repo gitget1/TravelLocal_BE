@@ -41,6 +41,10 @@
 
 ---
 
+### Frontend
+- React Native
+- TypeScript
+
 ### Backend
 - Java 17
 - Spring Boot
